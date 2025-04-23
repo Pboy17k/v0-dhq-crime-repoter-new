@@ -1,0 +1,11 @@
+/* Leaflet CSS */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+.custom-marker-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
